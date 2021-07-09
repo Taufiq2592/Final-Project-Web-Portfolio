@@ -1,0 +1,11 @@
+/*Responsive for Tablet*/
+
+@media (max-width: 800px) {
+    .hidden-menu {
+        display: block;
+    }
+
+    header ul {
+        display: none;
+    }
+}
